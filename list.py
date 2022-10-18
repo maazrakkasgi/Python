@@ -1,0 +1,15 @@
+a=[1,6,8,9,7,6,4,3,5,2,0]
+#a[0]=89
+#print(a[:9])
+#a.sort()
+print(a)
+a.reverse()
+print(a)
+a.append(786)
+print(a)
+a.insert(2,15)
+print(a)
+a.pop(2)
+print(a)
+a.remove(786)
+print(a)
